@@ -1,6 +1,6 @@
 # mynote
 Xây dựng ứng dụng Note
-(Đây là phần thực hành của nội dung chương 4 trong học phần *Phát triển ứng dụng đa nền tảng* đang được giảng dạy tại Khoa Công nghệ thông tin của Trường Đại học Mỏ - Địa chất)
+(Đây là phần thực hành của nội dung chương 4 trong học phần *Phát triển ứng dụng di động đa nền tảng* đang được giảng dạy tại Khoa Công nghệ thông tin của Trường Đại học Mỏ - Địa chất)
 
 ## Kho lưu trữ được tạo từ [GitHub]<https://github.com/chuyentt/mynote>
 
@@ -20,6 +20,7 @@ Xây dựng ứng dụng Note
     ![Đăng nhập](https://drive.google.com/file/d/1aLpkoVFl5pFM8Ln6Yuldjm_IYy63Oec0/view?usp=sharing)
     ![Đăng ký](https://drive.google.com/file/d/1aJdB3U1LRFNSZKLG1dOOhPIgyPNmIw0-/view?usp=sharing)
     ![Home](https://drive.google.com/file/d/1aKauFCWp1X0HJ1ZsYo0aOCGt1YX7dK6u/view?usp=sharing)
-    ![Chỉnh sửa](https://drive.google.com/file/d/1aK3X6Fnh00xyXqWxtCT7Qqliw8aJdazT/view?usp=sharing)    
-Youtube 
-https://www.youtube.com/watch?v=NmPQS-7sJI0
+    ![image](https://www.google.com.vn/search?q=icon+note&tbm=isch&hl=vi&sa=X&ved=2ahUKEwiznrWe3uvtAhVCNqYKHTmMBJkQrNwCKAB6BQgBENIB&biw=1475&bih=699#imgrc=fmi5buoKR2BrbM)  
+## Nguồn Youtube
+   https://www.youtube.com/watch?v=NmPQS-7sJI0 
+        
