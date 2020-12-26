@@ -21,4 +21,5 @@ Xây dựng ứng dụng Note
     ![Đăng ký](https://drive.google.com/file/d/1aJdB3U1LRFNSZKLG1dOOhPIgyPNmIw0-/view?usp=sharing)
     ![Home](https://drive.google.com/file/d/1aKauFCWp1X0HJ1ZsYo0aOCGt1YX7dK6u/view?usp=sharing)
     ![Chỉnh sửa](https://drive.google.com/file/d/1aK3X6Fnh00xyXqWxtCT7Qqliw8aJdazT/view?usp=sharing)    
-        
+Youtube 
+https://www.youtube.com/watch?v=NmPQS-7sJI0
